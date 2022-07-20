@@ -1,0 +1,29 @@
+body{
+    font-family: "Montserrat";
+    text-align: center;
+    background-color: bisque;
+  }
+  h1, h2, h3, h4, h5, h6{
+    font-family: "Montserrat";
+    font-weight: 700;
+    background-color: bisque;
+  }
+  
+  p{
+    color: #7f07ef;
+  }
+  .navbar{
+    background-color: aqua;
+    padding: 0 0 0.1rem;
+ }
+ .navbar-brand{
+    font-size: 1rem;
+    font-family: "Ubuntu";
+    font-weight: bold;
+  }
+ .nav-link{
+    font-size: 1rem;
+    font-family: "Ubuntu";
+    font-weight: bold;
+
+ }
